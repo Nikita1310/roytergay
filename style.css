@@ -1,0 +1,74 @@
+body {
+    background: #EAEAEA;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    max-width: 1110px;
+    margin: 0 auto;
+    background: black;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.info {
+    padding: 60px;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    width: 350px;
+}
+
+.phone-img {
+height: 246px;
+}
+
+.case {
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+.case-items {
+    display: flex;
+    gap: 30px;
+}
+
+.case h2, .pods h2 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #838383;
+    margin: 20px 0;
+}
+
+.steklo-txt {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    color: #1C1C27;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.steklo img {
+    width: 150px;
+}
+
+.steklo {
+    background: white;
+    padding: 25px 100px;
+    border-radius: 30px;
+}
+
+.pods {
+    max-width: 1110px;
+    margin: 0 auto;
+}
